@@ -14,8 +14,8 @@ The **Quiz Generation API** is an AI-powered system that generates **multiple-ch
 - **Backend**: Django Rest Framework (DRF)
 - **AI Framework**: LangChain
 - **PDF Processing**: PyMuPDF (fitz)
-- **Database**: PostgreSQL (or SQLite for testing)
-- **Deployment**: AWS / Vercel (Optional)
+- **Database**: Mysql (or SQLite for testing)
+- **Deployment**: Pythonanywhere
 
 ## 🔧 Installation
 1. **Clone the repository**:
